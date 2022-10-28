@@ -1,0 +1,19 @@
+{
+  "name": "api_rest_movie_db",
+  "version": "1.0.0",
+  "description": "Consumo Api Rest con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacier97/api_rest_movie_db.git"
+  },
+  "author": "@daniel :)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dacier97/api_rest_movie_db/issues"
+  },
+  "homepage": "https://github.com/dacier97/api_rest_movie_db#readme"
+}

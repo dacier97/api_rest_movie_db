@@ -1,0 +1,1 @@
+console.log('API URL = htpps://tweetrw.com/ytyer?api_key=' + API_KEY)
